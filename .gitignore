@@ -1,0 +1,13 @@
+laravel-video-chat-room/node_modules
+laravel-video-chat-room/public/hot
+laravel-video-chat-room/public/storage
+laravel-video-chat-room/storage/*.key
+laravel-video-chat-room/vendor
+laravel-video-chat-room/.env
+laravel-video-chat-room/.env.backup
+laravel-video-chat-room/.phpunit.result.cache
+laravel-video-chat-room/docker-compose.override.yml
+laravel-video-chat-room/Homestead.json
+laravel-video-chat-room/Homestead.yaml
+laravel-video-chat-room/npm-debug.log
+laravel-video-chat-room/yarn-error.log
